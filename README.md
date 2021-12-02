@@ -93,14 +93,12 @@
 - [ ] [Start Developing in SAP BTP](https://developers.sap.com/mission.scp-1-start-developing.html)
   - [x] [Get Ready to Develop on SAP BTP](https://developers.sap.com/group.scp-1-get-ready.html)
 - [ ] [Develop an SAP Fiori App Using SAP BTP, ABAP Environment](https://developers.sap.com/mission.cp-starter-extensions-abap.html)
-  - [ ] [Create an SAP BTP ABAP Environment Trial User](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
+  - [x] [Create an SAP BTP ABAP Environment Trial User](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
   - [ ] [Develop a Fiori App Using the ABAP RESTful Application Programming Model (Managed Scenario)](https://developers.sap.com/group.abap-env-expose-cds-travel-model.html)
-    - [ ] [Create Table Persistence and Generate Data | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-persistence.html)
+    - [x] [Create Table Persistence and Generate Data | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-persistence.html)
     - [ ] [Define and Expose a CDS-Based Travel Data Model | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-data-model.html)
     - [ ] [Create Behavior Definition for Managed Scenario | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior.html)
     - [ ] [Enhance Behavior With Action and Validation | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior-action.html)
-      
-      
 
 ## SAP BTP Learning Group
 
