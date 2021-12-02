@@ -99,7 +99,8 @@
     - [ ] [Define and Expose a CDS-Based Travel Data Model | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-data-model.html)
     - [ ] [Create Behavior Definition for Managed Scenario | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior.html)
     - [ ] [Enhance Behavior With Action and Validation | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior-action.html)
-    - [ ] 
+      
+      
 
 ## SAP BTP Learning Group
 
