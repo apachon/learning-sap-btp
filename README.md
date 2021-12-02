@@ -1,7 +1,6 @@
 # Learning SAP Business Technology Platform
 
 ## openSAP
-
 - [ ] [Building Applications on SAP BTP with Microsoft Services](https://open.sap.com/courses/btpma1)
   - [x] [Week 1](https://open.sap.com/courses/btpma1/items/4UGktquz2GaKaEQ6SuQG6y)
   - [x] [Week 2](https://open.sap.com/courses/btpma1/items/7rnV7GkcaYmWDLXaD55i9t)
@@ -23,11 +22,6 @@
     - [ ] [Exercise: Create the end-to-end data flow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit5)
 
 ## SAP Learning Journey
-
-<p align="center">
-  <img src="https://github.com/apachon/learning-btp/blob/main/images/Learning-SAP.jpg" width="416" height="292"/>
-</p>
-
 - [ ] [Low-Code / No-Code Applications and Automations for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers)
   
   - [ ] [Unit 1 - Business Process Primer for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-business-processes)
@@ -93,29 +87,24 @@
     - [ ] [Unit 13 - Introducing the Job Scheduling service](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud/using-the-job-scheduling-service)
 
 ## SAP Tutorials for Developers
-
 - [ ] [Start Developing in SAP BTP](https://developers.sap.com/mission.scp-1-start-developing.html)
   - [x] [Get Ready to Develop on SAP BTP](https://developers.sap.com/group.scp-1-get-ready.html)
 
 ## SAP BTP Learning Group
 
 ## Artículos
-
 - [x] [AAncos - Aprendiendo SAP Business Technology Platform](https://aancos.com/2021/11/24/aprendiendo-sap-business-technology-platform/)
   Hoja de ruta a seguir, comenta AAncos que una buena manera para empezar en este extenso ecosistema son los SAP Learning Journey, elegir alguno/s de los 7 itinerarios descritos en el apartado SAP Learning Journey.
 - [ ] [How to become an SAP BTP developer for free](https://blogs.sap.com/2021/11/15/how-to-become-an-sap-btp-developer-for-free/)
 - [ ] [It’s Steampunk now](https://blogs.sap.com/2019/08/20/its-steampunk-now/)
 
 ## sapteched2021
-
 - [ ] [Get an Overview of Our Road Map for SAP Business Technology Platform (PAR107)](https://reg.sapevents.sap.com/flow/sap/sapteched2021/portal/page/sessions/session/1630367595742001owBb?utf8=%E2%9C%93&authenticity_token=UCs6teeNkFv5GTse8dOa4bXUbDCwjtT3bZD6TRuDFP%2B%2Fyr69ygbrdwhH27uhTa8z4uPnhfF7qESRBQT6mBfJQA%3D%3D)
 
 ## Twitter
-
 ### Cuentas
 
 - [@SAPdevs](https://twitter.com/SAPdevs) 
 
 ### Tweets
-
 - [x] [Visit our Tutorial Catalog for step-by-step tutorials for SAP HANA, SAP Business Technology Platform, etc.](https://twitter.com/SAPdevs/status/1465871086978048000?s=20)
