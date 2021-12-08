@@ -107,7 +107,7 @@
 - [x] [AAncos - Aprendiendo SAP Business Technology Platform](https://aancos.com/2021/11/24/aprendiendo-sap-business-technology-platform/)
   Hoja de ruta a seguir, comenta AAncos que una buena manera para empezar en este extenso ecosistema son los SAP Learning Journey, elegir alguno/s de los 7 itinerarios descritos en el apartado SAP Learning Journey.
 - [x] [AAncos - Entorno ABAP en SAP Business Technology Platform (I)](https://aancos.com/2021/12/02/entorno-abap-en-sap-business-technology-platform-i/)
-- [ ] [AAncos -Entorno ABAP en SAP Business Technology Platform (y II) – Antonio de Ancos Cid (aancos.com)](https://aancos.com/2021/12/03/entorno-abap-en-sap-business-technology-platform-y-ii/)
+- [ ] [AAncos -Entorno ABAP en SAP Business Technology Platform (y II)](https://aancos.com/2021/12/03/entorno-abap-en-sap-business-technology-platform-y-ii/)
 - [ ] [How to become an SAP BTP developer for free](https://blogs.sap.com/2021/11/15/how-to-become-an-sap-btp-developer-for-free/)
 - [ ] [It’s Steampunk now](https://blogs.sap.com/2019/08/20/its-steampunk-now/)
 
