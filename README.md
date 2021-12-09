@@ -4,7 +4,8 @@
 
 - [ ] [Building Applications on SAP BTP with Microsoft Services](https://open.sap.com/courses/btpma1)
   - [x] [Week 1](https://open.sap.com/courses/btpma1/items/4UGktquz2GaKaEQ6SuQG6y)
-  - [x] [Week 2](https://open.sap.com/courses/btpma1/items/7rnV7GkcaYmWDLXaD55i9t)
+  
+  - [x] [Week 2](https://open.sap.com/courses/btpma1/items/7rnV7GkcaYmWDLXaD55i9t) 
     - [ ] [Exercise: Setting up the development environment (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit1)
     - [ ] [Exercise: Setting up SAP Integration Suite (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit2)
     - [ ] [Exercise: Publish documents from SAP S/4HANA to SharePoint (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit3)
