@@ -15,12 +15,18 @@
     - [ ] [Exercise: Build SAP Conversational AI bot (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit3)
     - [ ] [Exercise: Sending adaptive cards from an SAP workflow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit4)
     - [ ] [Exercise: Create calendar entry using Microsoft Graph (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit5)
-  - [ ] [Week 4](https://open.sap.com/courses/btpma1/items/7EsxTXNJRcrOH3Dkp08Gqv)
+  - [x] [Week 4](https://open.sap.com/courses/btpma1/items/7EsxTXNJRcrOH3Dkp08Gqv)
     - [ ] [Exercise: Set up SAP HANA Cloud and SAP Analytics Cloud environment (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit1)
+    
     - [ ] [Exercise: Set up Microsoft Azure Data Explorer instance and load data (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit2)
+    
     - [ ] [Exercise: Set up connection between SAP HANA Cloud and Microsoft Azure Data Explorer (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit3)
+    
     - [ ] [Exercise: Connecting SAP Analytics Cloud with SAP HANA Cloud (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit4)
+    
     - [ ] [Exercise: Create the end-to-end data flow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit5)
+  - [ ] [Final Exam]([Welcome to the Final Exam | Building Applications on SAP BTP with](https://open.sap.com/courses/btpma1/items/6UPle6J9pzDQM0pSU9Xz8h))
+  - [ ] 
 
 ## SAP Learning Journey
 
