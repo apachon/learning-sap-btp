@@ -34,8 +34,6 @@
     - [ ] [Exercise: Create the end-to-end data flow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit5)
   
   - [ ] [Final Exam]([Welcome to the Final Exam | Building Applications on SAP BTP with](https://open.sap.com/courses/btpma1/items/6UPle6J9pzDQM0pSU9Xz8h))
-  
-  - [ ] 
 
 ## SAP Learning Journey
 
