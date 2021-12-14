@@ -1,36 +1,29 @@
 # Learning SAP Business Technology Platform
 
 ## openSAP
-
 - [ ] [Building Applications on SAP BTP with Microsoft Services](https://open.sap.com/courses/btpma1)
   - [x] [Week 1](https://open.sap.com/courses/btpma1/items/4UGktquz2GaKaEQ6SuQG6y)
-  
   - [x] [Week 2](https://open.sap.com/courses/btpma1/items/7rnV7GkcaYmWDLXaD55i9t) 
     - [ ] [Exercise: Setting up the development environment (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit1)
     - [ ] [Exercise: Setting up SAP Integration Suite (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit2)
     - [ ] [Exercise: Publish documents from SAP S/4HANA to SharePoint (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit3)
     - [ ] [Exercise: Set up SAP Cloud Integration and Azure Traffic Manager (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit4)
-  
   - [x] [Week 3](https://open.sap.com/courses/btpma1/items/46WnRff8wP2A7364jxkQ0P)
     - [ ] [Exercise: Setup SAP Workflow Management in SAP BTP Trial (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit1)
     - [ ] [Exercise: Build Leave Request workflow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit2)
     - [ ] [Exercise: Build SAP Conversational AI bot (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit3)
     - [ ] [Exercise: Sending adaptive cards from an SAP workflow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit4)
     - [ ] [Exercise: Create calendar entry using Microsoft Graph (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit5)
-  
   - [x] [Week 4](https://open.sap.com/courses/btpma1/items/7EsxTXNJRcrOH3Dkp08Gqv)
     - [ ] [Exercise: Set up SAP HANA Cloud and SAP Analytics Cloud environment (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit1)
     - [ ] [Exercise: Set up Microsoft Azure Data Explorer instance and load data (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit2)
     - [ ] [Exercise: Set up connection between SAP HANA Cloud and Microsoft Azure Data Explorer (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit3)
     - [ ] [Exercise: Connecting SAP Analytics Cloud with SAP HANA Cloud (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit4) 
     - [ ] [Exercise: Create the end-to-end data flow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit5)
-  
   - [ ] [Final Exam](https://open.sap.com/courses/btpma1/items/6UPle6J9pzDQM0pSU9Xz8h)
 
 ## SAP Learning Journey
-
 - [ ] [Low-Code / No-Code Applications and Automations for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers)
-  
   - [ ] [Unit 1 - Business Process Primer for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-business-processes)
   - [ ] [Unit 2 - Introduction to Citizen Development and Low-Code/No-Code](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-citizen-development)
   - [ ] [Unit 3 - Introduction to Low-Code/No-Code Application Development](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-low-code-no-code-application-development)
@@ -42,7 +35,6 @@
   - [ ] [Unit 9 - How to Run a Citizen Developer Hackathon in Your Team](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/running-a-citizen-developer-hackathon-in-your-team)
 
 - [ ] [Developing with SAP Extension Suite](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite)
-  
   - [ ] [Unit 1 - Development Environment and CAP-Project](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/get-started)
   - [ ] [Unit 2 - User Interface and Business Logic](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/generate-the-user-interface)
   - [ ] [Unit 3 - External Services](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/add-an-external-service)
@@ -52,16 +44,12 @@
   - [ ] [Unit 7 - Connection of an SAP S/4HANA Cloud System as an External Service for CAP](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/-connect-an-sap-s-4hana-cloud-system-as-an-external-service-for-cap)
 
 - [ ] [Modeling in SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud)
-  
   - [ ] SAP HANA Cloud - Foundation
-    
     - [ ] [Unit 1 - Introduction to SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/opportunities-for-innovation-in-the-digital-world)
     - [ ] [Unit 2 - Administration of SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/basic-concepts-and-terminology-of-btp-and-sap-hana-cloud)
     - [ ] [Unit 3 - Analytical Processing with SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/developing-data-models-with-sap-hana-cloud)
     - [ ] [Unit 4 - Developing Applications on SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/basic-development-concepts)
-  
   - [ ] SAP HANA Cloud - Modeling
-    
     - [ ] [Unit 1 - SAP Business Application Studio](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/getting-started-with-sap-business-application-studio)
     - [ ] [Unit 2 - Calculation Views](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/introducing-calculation-views)
     - [ ] [Unit 3 - Using Nodes in Calculation Views](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/using-projection-nodes)
@@ -72,7 +60,6 @@
     - [ ] [Unit 8 - Security in SAP HANA Modeling](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/introducing-roles-and-privileges)
 
 - [ ] [Developing Applications Running on SAP BTP Using SAP HANA Cloud](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud)
-  
   - [ ] SAP HANA Cloud - Foundation
     - [ ] [Unit 1 - Introduction to SAP HANA Cloud](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud/opportunities-for-innovation-in-the-digital-world)
     - [ ] [Unit 2 - Administration of SAP HANA Cloud](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud/basic-concepts-and-terminology-of-btp-and-sap-hana-cloud)
