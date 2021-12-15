@@ -20,7 +20,7 @@
     - [ ] [Exercise: Set up connection between SAP HANA Cloud and Microsoft Azure Data Explorer (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit3)
     - [ ] [Exercise: Connecting SAP Analytics Cloud with SAP HANA Cloud (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit4) 
     - [ ] [Exercise: Create the end-to-end data flow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit5)
-  - [ ] [Final Exam](https://open.sap.com/courses/btpma1/items/6UPle6J9pzDQM0pSU9Xz8h)
+  - [X] [Final Exam](https://open.sap.com/courses/btpma1/items/6UPle6J9pzDQM0pSU9Xz8h)
 
 ## SAP Learning Journey
 - [ ] [Low-Code / No-Code Applications and Automations for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers)
