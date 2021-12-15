@@ -24,7 +24,7 @@
 
 ## SAP Learning Journey
 - [ ] [Low-Code / No-Code Applications and Automations for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers)
-  - [ ] [Unit 1 - Business Process Primer for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-business-processes)
+  - [X] [Unit 1 - Business Process Primer for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-business-processes)
   - [ ] [Unit 2 - Introduction to Citizen Development and Low-Code/No-Code](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-citizen-development)
   - [ ] [Unit 3 - Introduction to Low-Code/No-Code Application Development](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-low-code-no-code-application-development)
   - [ ] [Unit 4 - Build a No-Code Mobile App with SAP AppGyver](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-no-code-in-appgyver)
@@ -83,22 +83,22 @@
 ## SAP Tutorials for Developers
 
 - [ ] [Start Developing in SAP BTP](https://developers.sap.com/mission.scp-1-start-developing.html)
-  - [x] [Get Ready to Develop on SAP BTP](https://developers.sap.com/group.scp-1-get-ready.html)
-- [x] [Develop an SAP Fiori App Using SAP BTP, ABAP Environment](https://developers.sap.com/mission.cp-starter-extensions-abap.html)
-  - [x] [Create an SAP BTP ABAP Environment Trial User](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
-  - [x] [Develop a Fiori App Using the ABAP RESTful Application Programming Model (Managed Scenario)](https://developers.sap.com/group.abap-env-expose-cds-travel-model.html)
-    - [x] [Create Table Persistence and Generate Data | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-persistence.html)
-    - [x] [Define and Expose a CDS-Based Travel Data Model | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-data-model.html)
-    - [x] [Create Behavior Definition for Managed Scenario | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior.html)
-    - [x] [Enhance Behavior With Action and Validation | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior-action.html)
+  - [X] [Get Ready to Develop on SAP BTP](https://developers.sap.com/group.scp-1-get-ready.html)
+- [X] [Develop an SAP Fiori App Using SAP BTP, ABAP Environment](https://developers.sap.com/mission.cp-starter-extensions-abap.html)
+  - [X] [Create an SAP BTP ABAP Environment Trial User](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
+  - [X] [Develop a Fiori App Using the ABAP RESTful Application Programming Model (Managed Scenario)](https://developers.sap.com/group.abap-env-expose-cds-travel-model.html)
+    - [X] [Create Table Persistence and Generate Data | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-persistence.html)
+    - [X] [Define and Expose a CDS-Based Travel Data Model | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-data-model.html)
+    - [X] [Create Behavior Definition for Managed Scenario | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior.html)
+    - [X] [Enhance Behavior With Action and Validation | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior-action.html)
 
 ## SAP BTP Learning Group
 
 ## Artículos
 
-- [x] [AAncos - Aprendiendo SAP Business Technology Platform](https://aancos.com/2021/11/24/aprendiendo-sap-business-technology-platform/)
+- [X] [AAncos - Aprendiendo SAP Business Technology Platform](https://aancos.com/2021/11/24/aprendiendo-sap-business-technology-platform/)
   Hoja de ruta a seguir, comenta AAncos que una buena manera para empezar en este extenso ecosistema son los SAP Learning Journey, elegir alguno/s de los 7 itinerarios descritos en el apartado SAP Learning Journey.
-- [x] [AAncos - Entorno ABAP en SAP Business Technology Platform (I)](https://aancos.com/2021/12/02/entorno-abap-en-sap-business-technology-platform-i/)
+- [X] [AAncos - Entorno ABAP en SAP Business Technology Platform (I)](https://aancos.com/2021/12/02/entorno-abap-en-sap-business-technology-platform-i/)
 - [ ] [AAncos -Entorno ABAP en SAP Business Technology Platform (y II)](https://aancos.com/2021/12/03/entorno-abap-en-sap-business-technology-platform-y-ii/)
 - [ ] [How to become an SAP BTP developer for free](https://blogs.sap.com/2021/11/15/how-to-become-an-sap-btp-developer-for-free/)
 - [ ] [It’s Steampunk now](https://blogs.sap.com/2019/08/20/its-steampunk-now/)
@@ -116,4 +116,4 @@
 
 ### Tweets
 
-- [x] [Visit our Tutorial Catalog for step-by-step tutorials for SAP HANA, SAP Business Technology Platform, etc.](https://twitter.com/SAPdevs/status/1465871086978048000?s=20)
+- [X] [Visit our Tutorial Catalog for step-by-step tutorials for SAP HANA, SAP Business Technology Platform, etc.](https://twitter.com/SAPdevs/status/1465871086978048000?s=20)
