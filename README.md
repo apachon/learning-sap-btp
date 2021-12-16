@@ -106,6 +106,7 @@
 - [ ] [It’s Steampunk now](https://blogs.sap.com/2019/08/20/its-steampunk-now/)
 - [x] [AAncos - SAP AppGyver: low-code, no-code](https://aancos.com/2021/11/25/sap-appgyver-low-code-no-code/)
 - [ ] [AAncos - SAP AppGyver: lo probamos (I)](https://aancos.com/2021/12/14/sap-appgyver/)
+- [ ] [AAncos - SAP AppGyver: lo probamos (y II)](https://aancos.com/2021/12/15/sap-appgyver-ii/)
 
 ## sapteched2021
 
