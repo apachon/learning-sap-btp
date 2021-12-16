@@ -1,30 +1,33 @@
 # Learning SAP Business Technology Platform
 
 ## openSAP
+
 - [ ] [Building Applications on SAP BTP with Microsoft Services](https://open.sap.com/courses/btpma1)
-  - [X] [Week 1](https://open.sap.com/courses/btpma1/items/4UGktquz2GaKaEQ6SuQG6y)
-  - [X] [Week 2](https://open.sap.com/courses/btpma1/items/7rnV7GkcaYmWDLXaD55i9t) 
+  - [x] [Week 1](https://open.sap.com/courses/btpma1/items/4UGktquz2GaKaEQ6SuQG6y)
+  - [x] [Week 2](https://open.sap.com/courses/btpma1/items/7rnV7GkcaYmWDLXaD55i9t) 
     - [ ] [Exercise: Setting up the development environment (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit1)
     - [ ] [Exercise: Setting up SAP Integration Suite (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit2)
     - [ ] [Exercise: Publish documents from SAP S/4HANA to SharePoint (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit3)
     - [ ] [Exercise: Set up SAP Cloud Integration and Azure Traffic Manager (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week2/Unit4)
-  - [X] [Week 3](https://open.sap.com/courses/btpma1/items/46WnRff8wP2A7364jxkQ0P)
+  - [x] [Week 3](https://open.sap.com/courses/btpma1/items/46WnRff8wP2A7364jxkQ0P)
     - [ ] [Exercise: Setup SAP Workflow Management in SAP BTP Trial (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit1)
     - [ ] [Exercise: Build Leave Request workflow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit2)
     - [ ] [Exercise: Build SAP Conversational AI bot (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit3)
     - [ ] [Exercise: Sending adaptive cards from an SAP workflow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit4)
     - [ ] [Exercise: Create calendar entry using Microsoft Graph (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week3/Unit5)
-  - [X] [Week 4](https://open.sap.com/courses/btpma1/items/7EsxTXNJRcrOH3Dkp08Gqv)
+  - [x] [Week 4](https://open.sap.com/courses/btpma1/items/7EsxTXNJRcrOH3Dkp08Gqv)
     - [ ] [Exercise: Set up SAP HANA Cloud and SAP Analytics Cloud environment (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit1)
     - [ ] [Exercise: Set up Microsoft Azure Data Explorer instance and load data (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit2)
     - [ ] [Exercise: Set up connection between SAP HANA Cloud and Microsoft Azure Data Explorer (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit3)
     - [ ] [Exercise: Connecting SAP Analytics Cloud with SAP HANA Cloud (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit4) 
     - [ ] [Exercise: Create the end-to-end data flow (optional)](https://github.com/SAP-samples/btp-azure-opensap/tree/main/Week4/Unit5)
-  - [X] [Final Exam](https://open.sap.com/courses/btpma1/items/6UPle6J9pzDQM0pSU9Xz8h)
+  - [x] [Final Exam](https://open.sap.com/courses/btpma1/items/6UPle6J9pzDQM0pSU9Xz8h)
 
 ## SAP Learning Journey
+
 - [ ] [Low-Code / No-Code Applications and Automations for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers)
-  - [X] [Unit 1 - Business Process Primer for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-business-processes)
+  
+  - [x] [Unit 1 - Business Process Primer for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-business-processes)
   - [ ] [Unit 2 - Introduction to Citizen Development and Low-Code/No-Code](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-citizen-development)
   - [ ] [Unit 3 - Introduction to Low-Code/No-Code Application Development](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-low-code-no-code-application-development)
   - [ ] [Unit 4 - Build a No-Code Mobile App with SAP AppGyver](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-no-code-in-appgyver)
@@ -35,6 +38,7 @@
   - [ ] [Unit 9 - How to Run a Citizen Developer Hackathon in Your Team](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/running-a-citizen-developer-hackathon-in-your-team)
 
 - [ ] [Developing with SAP Extension Suite](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite)
+  
   - [ ] [Unit 1 - Development Environment and CAP-Project](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/get-started)
   - [ ] [Unit 2 - User Interface and Business Logic](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/generate-the-user-interface)
   - [ ] [Unit 3 - External Services](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/add-an-external-service)
@@ -44,6 +48,7 @@
   - [ ] [Unit 7 - Connection of an SAP S/4HANA Cloud System as an External Service for CAP](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/-connect-an-sap-s-4hana-cloud-system-as-an-external-service-for-cap)
 
 - [ ] [Modeling in SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud)
+  
   - [ ] SAP HANA Cloud - Foundation
     - [ ] [Unit 1 - Introduction to SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/opportunities-for-innovation-in-the-digital-world)
     - [ ] [Unit 2 - Administration of SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/basic-concepts-and-terminology-of-btp-and-sap-hana-cloud)
@@ -60,6 +65,7 @@
     - [ ] [Unit 8 - Security in SAP HANA Modeling](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/introducing-roles-and-privileges)
 
 - [ ] [Developing Applications Running on SAP BTP Using SAP HANA Cloud](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud)
+  
   - [ ] SAP HANA Cloud - Foundation
     - [ ] [Unit 1 - Introduction to SAP HANA Cloud](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud/opportunities-for-innovation-in-the-digital-world)
     - [ ] [Unit 2 - Administration of SAP HANA Cloud](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud/basic-concepts-and-terminology-of-btp-and-sap-hana-cloud)
@@ -83,26 +89,27 @@
 ## SAP Tutorials for Developers
 
 - [ ] [Start Developing in SAP BTP](https://developers.sap.com/mission.scp-1-start-developing.html)
-  - [X] [Get Ready to Develop on SAP BTP](https://developers.sap.com/group.scp-1-get-ready.html)
-- [X] [Develop an SAP Fiori App Using SAP BTP, ABAP Environment](https://developers.sap.com/mission.cp-starter-extensions-abap.html)
-  - [X] [Create an SAP BTP ABAP Environment Trial User](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
-  - [X] [Develop a Fiori App Using the ABAP RESTful Application Programming Model (Managed Scenario)](https://developers.sap.com/group.abap-env-expose-cds-travel-model.html)
-    - [X] [Create Table Persistence and Generate Data | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-persistence.html)
-    - [X] [Define and Expose a CDS-Based Travel Data Model | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-data-model.html)
-    - [X] [Create Behavior Definition for Managed Scenario | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior.html)
-    - [X] [Enhance Behavior With Action and Validation | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior-action.html)
+  - [x] [Get Ready to Develop on SAP BTP](https://developers.sap.com/group.scp-1-get-ready.html)
+- [x] [Develop an SAP Fiori App Using SAP BTP, ABAP Environment](https://developers.sap.com/mission.cp-starter-extensions-abap.html)
+  - [x] [Create an SAP BTP ABAP Environment Trial User](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
+  - [x] [Develop a Fiori App Using the ABAP RESTful Application Programming Model (Managed Scenario)](https://developers.sap.com/group.abap-env-expose-cds-travel-model.html)
+    - [x] [Create Table Persistence and Generate Data | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-persistence.html)
+    - [x] [Define and Expose a CDS-Based Travel Data Model | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-data-model.html)
+    - [x] [Create Behavior Definition for Managed Scenario | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior.html)
+    - [x] [Enhance Behavior With Action and Validation | Tutorials for SAP Developers](https://developers.sap.com/tutorials/abap-environment-behavior-action.html)
 
 ## SAP BTP Learning Group
 
 ## Artículos
 
-- [X] [AAncos - Aprendiendo SAP Business Technology Platform](https://aancos.com/2021/11/24/aprendiendo-sap-business-technology-platform/)
+- [x] [AAncos - Aprendiendo SAP Business Technology Platform](https://aancos.com/2021/11/24/aprendiendo-sap-business-technology-platform/)
   Hoja de ruta a seguir, comenta AAncos que una buena manera para empezar en este extenso ecosistema son los SAP Learning Journey, elegir alguno/s de los 7 itinerarios descritos en el apartado SAP Learning Journey.
-- [X] [AAncos - Entorno ABAP en SAP Business Technology Platform (I)](https://aancos.com/2021/12/02/entorno-abap-en-sap-business-technology-platform-i/)
-- [ ] [AAncos -Entorno ABAP en SAP Business Technology Platform (y II)](https://aancos.com/2021/12/03/entorno-abap-en-sap-business-technology-platform-y-ii/)
+- [x] [AAncos - Entorno ABAP en SAP Business Technology Platform (I)](https://aancos.com/2021/12/02/entorno-abap-en-sap-business-technology-platform-i/)
+- [x] [AAncos -Entorno ABAP en SAP Business Technology Platform (y II)](https://aancos.com/2021/12/03/entorno-abap-en-sap-business-technology-platform-y-ii/)
 - [ ] [How to become an SAP BTP developer for free](https://blogs.sap.com/2021/11/15/how-to-become-an-sap-btp-developer-for-free/)
 - [ ] [It’s Steampunk now](https://blogs.sap.com/2019/08/20/its-steampunk-now/)
-- [ ] [SAP AppGyver: lo probamos (I)](https://aancos.com/2021/12/14/sap-appgyver/)
+- [x] [AAncos - SAP AppGyver: low-code, no-code](https://aancos.com/2021/11/25/sap-appgyver-low-code-no-code/)
+- [ ] [AAncos - SAP AppGyver: lo probamos (I)](https://aancos.com/2021/12/14/sap-appgyver/)
 
 ## sapteched2021
 
@@ -116,4 +123,4 @@
 
 ### Tweets
 
-- [X] [Visit our Tutorial Catalog for step-by-step tutorials for SAP HANA, SAP Business Technology Platform, etc.](https://twitter.com/SAPdevs/status/1465871086978048000?s=20)
+- [x] [Visit our Tutorial Catalog for step-by-step tutorials for SAP HANA, SAP Business Technology Platform, etc.](https://twitter.com/SAPdevs/status/1465871086978048000?s=20)
