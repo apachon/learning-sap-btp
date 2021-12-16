@@ -26,7 +26,6 @@
 ## SAP Learning Journey
 
 - [ ] [Low-Code / No-Code Applications and Automations for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers)
-  
   - [x] [Unit 1 - Business Process Primer for Citizen Developers](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-business-processes)
   - [ ] [Unit 2 - Introduction to Citizen Development and Low-Code/No-Code](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-citizen-development)
   - [ ] [Unit 3 - Introduction to Low-Code/No-Code Application Development](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/getting-started-with-low-code-no-code-application-development)
@@ -38,7 +37,6 @@
   - [ ] [Unit 9 - How to Run a Citizen Developer Hackathon in Your Team](https://learning.sap.com/learning-journey/low-code-no-code-applications-and-automations-for-citizen-developers/running-a-citizen-developer-hackathon-in-your-team)
 
 - [ ] [Developing with SAP Extension Suite](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite)
-  
   - [ ] [Unit 1 - Development Environment and CAP-Project](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/get-started)
   - [ ] [Unit 2 - User Interface and Business Logic](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/generate-the-user-interface)
   - [ ] [Unit 3 - External Services](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/add-an-external-service)
@@ -48,7 +46,6 @@
   - [ ] [Unit 7 - Connection of an SAP S/4HANA Cloud System as an External Service for CAP](https://learning.sap.com/learning-journey/developing-with-sap-extension-suite/-connect-an-sap-s-4hana-cloud-system-as-an-external-service-for-cap)
 
 - [ ] [Modeling in SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud)
-  
   - [ ] SAP HANA Cloud - Foundation
     - [ ] [Unit 1 - Introduction to SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/opportunities-for-innovation-in-the-digital-world)
     - [ ] [Unit 2 - Administration of SAP HANA Cloud](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/basic-concepts-and-terminology-of-btp-and-sap-hana-cloud)
@@ -65,7 +62,6 @@
     - [ ] [Unit 8 - Security in SAP HANA Modeling](https://learning.sap.com/learning-journey/modeling-in-sap-hana-cloud/introducing-roles-and-privileges)
 
 - [ ] [Developing Applications Running on SAP BTP Using SAP HANA Cloud](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud)
-  
   - [ ] SAP HANA Cloud - Foundation
     - [ ] [Unit 1 - Introduction to SAP HANA Cloud](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud/opportunities-for-innovation-in-the-digital-world)
     - [ ] [Unit 2 - Administration of SAP HANA Cloud](https://learning.sap.com/learning-journey/developing-applications-running-on-sap-btp-using-sap-hana-cloud/basic-concepts-and-terminology-of-btp-and-sap-hana-cloud)
@@ -125,4 +121,3 @@
 
 - [x] [Visit our Tutorial Catalog for step-by-step tutorials for SAP HANA, SAP Business Technology Platform, etc.](https://twitter.com/SAPdevs/status/1465871086978048000?s=20)
 - [ ] [Here is a series of blogs posts covering the steps to integrate an extension workflow using SAP Workflow Management on SAP Business Technology Platform (SAP BTP Workflow) into a Flexible Workflow in SAP S/4HANA OP.](https://twitter.com/SAPdevs/status/1471165662592749570?s=20https://twitter.com/SAPdevs/status/1471165662592749570?s=20)
-- [ ] 
