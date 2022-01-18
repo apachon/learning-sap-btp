@@ -126,3 +126,4 @@
 
 - [x] [Visit our Tutorial Catalog for step-by-step tutorials for SAP HANA, SAP Business Technology Platform, etc.](https://twitter.com/SAPdevs/status/1465871086978048000?s=20)
 - [ ] [Here is a series of blogs posts covering the steps to integrate an extension workflow using SAP Workflow Management on SAP Business Technology Platform (SAP BTP Workflow) into a Flexible Workflow in SAP S/4HANA OP.](https://twitter.com/SAPdevs/status/1471165662592749570?s=20https://twitter.com/SAPdevs/status/1471165662592749570?s=20)
+- [ ] [Learn how to use the SAP Business Technology Platform (BTP) to extend SAP Marketing Cloud with Predictive Scores](https://twitter.com/SAPdevs/status/1483169530495045632?s=20)
